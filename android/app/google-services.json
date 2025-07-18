@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372421686581",
+    "project_id": "haxuvinacms",
+    "storage_bucket": "haxuvinacms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372421686581:android:3d2d26246204eec753c87c",
+        "android_client_info": {
+          "package_name": "com.haxuvina.ecommercecms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnmdvmldDu--GG5ZJHxHeoMc4mKWWmi0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

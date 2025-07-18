@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "haxuvinacms",
+          "appId": "1:372421686581:android:3d2d26246204eec753c87c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "haxuvinacms",
+          "configurations": {
+            "android": "1:372421686581:android:3d2d26246204eec753c87c",
+            "ios": "1:372421686581:ios:6bb0605a1bf4f60453c87c"
+          }
+        }
+      }
+    }
+  }
+}
